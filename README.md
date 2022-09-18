@@ -1,21 +1,36 @@
 # PROJET_PROG_WEB
+
 RAPPORT DU PROJET DE PROGRAMATION WEB
+
 **MEMBRES DU GROUPE** :
 
 KAMISA LWIPA Pierrette
+
 KASEYA WA KASEYA Gopher
+
 TOLOKALI REBECCA Rebecca
+
 MUTOMBO NGOIE Evelyne
+
 KAZADI KABAMBA Franck
+
 KASONDE KASONDE Elysee
+
 KAHONGO KALUNGA Mirland
+
 KILULMBU LOIC Henrique
+
 KALUNGA LIBZE John
+
 MITONGA TSHIAMA Caroline
 
+
 Chef de groupe : MUTOMBO NGOIE Evelyne
+
 Chef adjoint : KAZADI KABAMBA Franck
+
 Rapporteur : MITONGA TSHIAMA Caroline
+
 
 *** INTODUCTION ***
 Afin d’appliquer les méthodologies et les notions enseignées dans le cours de programmation web , il
